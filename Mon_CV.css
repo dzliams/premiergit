@@ -1,0 +1,19 @@
+.titre{
+                background-color: #B1B29D;
+                color:blue;
+                text-align: center;
+            }
+.infos{
+    
+    color: blue;
+    text-align:left;
+    font-size: larger;
+    font-style: italic;
+   /* background-color: #FFFFFF;*/
+}
+.formation{
+    /*background-color: #CDF1E8;*/
+     color: black;
+     font-size: medium;
+      font-style: normal; 
+}
